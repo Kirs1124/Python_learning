@@ -1,4 +1,4 @@
-base_dir = './files/'
+base_dir = 'files/'
 
 
 def read_file(file_name):
